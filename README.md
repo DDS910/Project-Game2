@@ -1,6 +1,6 @@
 # Ancient Relic : The Lost World
 
-Welcome to Traveler and the **Rune of Balance!** 
+Welcome to Traveler and the **Ancient Relic : The Lost World!** 
 A 2D action-adventure game where you play as the Travelers, a young adventurer on a quest to recover the scattered runes of an ancient artifact and restore peace to a chaotic world.
 
 ## Description
